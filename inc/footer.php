@@ -1,3 +1,4 @@
+<!-- main blog important -->
 </div>
 
 	<div class="footersection templete clear">
